@@ -2,7 +2,6 @@
 - 👀 I’m interested in iOS projects and development 
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on small projects 
-- 📫 How to reach me francoforodios@gmail.com
 
 <!---
 Francorod/Francorod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
