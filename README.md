@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Francorod
-- 👀 I’m interested in Ios & Swift
+- 👀 I’m interested in iOS projects and development 
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on small projects 
 - 📫 How to reach me francoforodios@gmail.com
