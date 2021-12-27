@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Francorod
 - 👀 I’m interested in iOS projects and development 
-- 🌱 I’m currently learning Swift
+- 🌱 I’m an iOS Developer
 - 💞️ I’m looking to collaborate on small projects 
 
 <!---
